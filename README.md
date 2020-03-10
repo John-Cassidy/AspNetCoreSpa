@@ -40,7 +40,7 @@
 
 ```
 1. Clone the repo:
-    git clone https://github.com/asadsahi/AspNetCoreSpa
+    git clone https://github.com/John-Cassidy/AspNetCoreSpa
 2. Change directory:
     cd AspNetCoreSpa
 3. Restore packages:
